@@ -1,0 +1,6 @@
+
+{
+    "argv" : [ "python", "-m", "node_kernel", "-f", "{connection_file}"],
+    "display_name" : "Node",
+    "language" : "javascript"
+}
